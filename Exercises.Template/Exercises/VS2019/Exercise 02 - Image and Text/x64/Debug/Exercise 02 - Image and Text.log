@@ -1,0 +1,4 @@
+﻿  Image_and_Text.c
+C:\Users\Joe Lam\OneDrive\桌面\Final Project FIles\Exercises.Template\Exercises\Source\Image_and_Text.c(79,33): warning C4013: 'al_init_primitves_addon' 未定義; 假設 extern 傳回整數
+Image_and_Text.obj : error LNK2019: 在函式 al_init_primitves_addonmain 中參考了無法解析的外部符號
+C:\Users\Joe Lam\OneDrive\桌面\Final Project FIles\Exercises.Template\Exercises\VS2019\x64\Debug\Exercise 02 - Image and Text.exe : fatal error LNK1120: 1 個無法解析的外部符號

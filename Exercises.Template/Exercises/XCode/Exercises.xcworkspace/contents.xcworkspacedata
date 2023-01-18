@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Exercise_05_Mouse_Answer/Exercise_05_Mouse_Answer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_05_Mouse/Exercise_05_Mouse.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_04_Keyboard_Answer/Exercise_04_Keyboard_Answer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_04_Keyboard/Exercise_04_Keyboard.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_03_Event_Loop_Answer/Exercise_03_Event_Loop_Answer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_03_Event_Loop/Exercise_03_Event_Loop.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_02_Image_and_Text_Answer/Exercise_02_Image_and_Text_Answer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_02_Image_and_Text/Exercise_02_Image_and_Text.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_01_Create_Window_Answer/Exercise_01_Create_Window_Answer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Exercise_01_Create_Window/Exercise_01_Create_Window.xcodeproj">
+   </FileRef>
+</Workspace>
